@@ -2,7 +2,7 @@
    Xpenses
 </h3>
 
-# 📌 
+# 
 It's a financial control app based on the same idea as devfinances, but with more advanced technologies, open source libraries, and resources. Transactions can be registered, deleted, and incoming and outgoing transactions can be seen
 
 # Technologies
