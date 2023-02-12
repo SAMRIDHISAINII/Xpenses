@@ -1,5 +1,5 @@
 <h3 align="center">
-   Finance App.
+   Xpenses
 </h3>
 
 # 📌 
