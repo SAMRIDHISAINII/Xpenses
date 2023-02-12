@@ -2,8 +2,8 @@
    Finance App.
 </h3>
 
-# 📌 Contents
-> It's a financial control app based on the same idea as devfinances, but with more advanced technologies, open source libraries, and resources. Transactions can be registered, deleted, and incoming and outgoing transactions can be seen
+# 📌 
+It's a financial control app based on the same idea as devfinances, but with more advanced technologies, open source libraries, and resources. Transactions can be registered, deleted, and incoming and outgoing transactions can be seen
 
 # Technologies
 This project is being developed with the following technologies:
